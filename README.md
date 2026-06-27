@@ -7,3 +7,5 @@ Hello and welcome to my first ever repository! I am currently 17 years old, want
   ## 💻 Tech Stack:
   * Git/GitHub
   * VS code (Visual Studio code)
+
+Join me in this journey and track my progress from day 1! 🥇
